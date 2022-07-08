@@ -1,5 +1,6 @@
 Adding 2 numbers
 addition
+done editing
 x = input("Type a number: ")
 y = input("Type another number: ")
 
